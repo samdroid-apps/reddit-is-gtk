@@ -44,6 +44,7 @@ class RedditWindow(Gtk.Window):
                             icon_name='reddit-is-a-dead-bird')
         self.add_events(Gdk.EventMask.KEY_PRESS_MASK)
         self.set_default_size(600, 600)
+        self.set_wm_class("reddit-is-gtk", "Something For Reddit")
 
         settings = Gtk.Settings.get_default()
         screen = Gdk.Screen.get_default()
