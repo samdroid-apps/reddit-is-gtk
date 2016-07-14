@@ -1,0 +1,2184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2435"
+   height="1494"
+   viewBox="0 0 2434.9996 1494"
+   id="svg5128"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="something-for-reddit-blank.svg"
+   inkscape:export-filename="/media/files/Mock-ups/something-for-reddit/something-for-reddit-blank.0.1.0.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs6009" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="1198.8209"
+     inkscape:cy="1003.5305"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:snap-nodes="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6357" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5133">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,441.63804)">
+    <g
+       style="opacity:0.25"
+       id="g21239"
+       transform="matrix(-1,0,0,-1,3500.3588,-1621.9582)" />
+    <rect
+       y="-312.17517"
+       x="40.999908"
+       height="1323.0846"
+       width="2353.7061"
+       id="rect22446"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g22434"
+       transform="translate(-2981.7435,2229.2471)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="3019.7185"
+         y="-2598.6665"
+         id="text22436"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan22438"
+           x="3019.7185"
+           y="-2598.6665"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#2e3436;fill-opacity:1">Something for Reddit</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text22440"
+         y="-2555.3621"
+         x="3020.6187"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;fill:#2e3436;fill-opacity:1"
+           y="-2555.3621"
+           x="3020.6187"
+           id="tspan22442"
+           sodipodi:role="line">Blank window (or on first load); welcomes users and tells them what to do</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3021.7435,-2579.2869 444.409,0"
+         id="path22444"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text22436-6"
+       y="-320.56"
+       x="2397.3936"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1"
+         y="-320.56"
+         x="2397.3936"
+         id="tspan22438-7"
+         sodipodi:role="line">Version 0.1.0</tspan></text>
+    <g
+       id="g6557">
+      <path
+         style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.99978828;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 258.1439,-154.70523 1919.4192,0 0,1032.14093 -1919.4192,0 z"
+         id="path11418"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         transform="translate(2728.109,744.96168)"
+         id="g11629">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect9402-2"
+           width="383"
+           height="1031.6461"
+           x="-2469.9661"
+           y="-899.40283" />
+        <g
+           id="g8510"
+           transform="translate(-2470.4659,-919.38818)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 0.99987793,20.485027 382.00000207,0 0,87.000003 -382.00000207,0 z"
+             id="path12648-5" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path12650-8"
+             d="m 0.99987794,107.88703 382.00000206,0"
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             id="g12425">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3"
+               y="-41.50024"
+               x="28.142029"
+               height="33.000122"
+               width="66"
+               id="rect12849-7-6-6-4"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               y="69.642036"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect12864-4-3-2-8"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path35264-9-5"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect12855-6-2-8-8-7"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="36.642029" />
+            <path
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path35266-5-1"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               id="path12422"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(0,-5.4526573)"
+             id="g14605">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="72.43589"
+               y="59.735531"
+               id="text119706-5"
+               sodipodi:linespacing="125%"><tspan
+                 id="tspan13822"
+                 sodipodi:role="line"
+                 x="72.43589"
+                 y="59.735531"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="55.012131"
+               y="43.588436"
+               id="text119702-4"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan119704-5"
+                 x="55.012131"
+                 y="43.588436"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">This is the subject of the thread</tspan></text>
+            <g
+               id="g12277"
+               transform="translate(243.25748,-88.057107)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m -186.32039,139.52444 a 1.0000999,1.0000999 0 0 0 -0.4062,1.7812 l 5,4 0.625,0.5 0.625,-0.5 5,-4 a 1.0004882,1.0004882 0 1 0 -1.25,-1.5625 l -4.375,3.5 -4.375,-3.5 a 1.0000999,1.0000999 0 0 0 -0.8438,-0.2187 z"
+                 id="path35600-9-4-2-1"
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m -187.19539,138.52444 a 1.0001,1.0001 0 0 0 -0.9062,1 l 0,9 a 1.0001,1.0001 0 0 0 1,1 l 12,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-9 a 1.0001,1.0001 0 0 0 -1,-1 l -12,0 a 1.0001,1.0001 0 0 0 -0.094,0 z m 1.0938,2 10,0 0,7 -10,0 0,-7 z"
+                 id="rect35604-0-8-7-2"
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text14409"
+               y="77.602531"
+               x="55.043377"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="77.602531"
+                 x="55.043377"
+                 sodipodi:role="line"
+                 id="tspan14411">Here we have a 150 characters word limit preview that users </tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="91.665031"
+                 x="55.043377"
+                 sodipodi:role="line"
+                 id="tspan14413">can view before expanding this to the main window. I will </tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="105.72753"
+                 x="55.043377"
+                 sodipodi:role="line"
+                 id="tspan14415">continue to write until I run out </tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8534"
+           transform="translate(-2470.4659,-831.48618)">
+          <path
+             id="path8536"
+             d="m 0.99987793,20.485027 382.00000207,0 0,87.000003 -382.00000207,0 z"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 0.99987794,107.88703 382.00000206,0"
+             id="path8538"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8540">
+            <rect
+               transform="matrix(0,1,-1,0,0,0)"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect8542"
+               width="66"
+               height="33.000122"
+               x="28.142029"
+               y="-41.50024"
+               rx="3"
+               ry="3"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect8544"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="69.642036" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path8546"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               y="36.642029"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect8548"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path8550"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path8552"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          </g>
+          <g
+             id="g8554"
+             transform="translate(0,-5.4526573)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text8556"
+               y="59.735531"
+               x="72.43589"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="59.735531"
+                 x="72.43589"
+                 sodipodi:role="line"
+                 id="tspan8558">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text8560"
+               y="43.588436"
+               x="55.012131"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+                 y="43.588436"
+                 x="55.012131"
+                 id="tspan8562"
+                 sodipodi:role="line">This is the subject of the thread</tspan></text>
+            <g
+               transform="translate(243.25748,-88.057107)"
+               id="g8564">
+              <path
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
+                 id="path8566"
+                 d="m -186.32039,139.52444 a 1.0000999,1.0000999 0 0 0 -0.4062,1.7812 l 5,4 0.625,0.5 0.625,-0.5 5,-4 a 1.0004882,1.0004882 0 1 0 -1.25,-1.5625 l -4.375,3.5 -4.375,-3.5 a 1.0000999,1.0000999 0 0 0 -0.8438,-0.2187 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+                 id="path8568"
+                 d="m -187.19539,138.52444 a 1.0001,1.0001 0 0 0 -0.9062,1 l 0,9 a 1.0001,1.0001 0 0 0 1,1 l 12,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-9 a 1.0001,1.0001 0 0 0 -1,-1 l -12,0 a 1.0001,1.0001 0 0 0 -0.094,0 z m 1.0938,2 10,0 0,7 -10,0 0,-7 z"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="55.043377"
+               y="77.602531"
+               id="text8570"
+               sodipodi:linespacing="125%"><tspan
+                 id="tspan8572"
+                 sodipodi:role="line"
+                 x="55.043377"
+                 y="77.602531"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">Here we have a 150 characters word limit preview that users </tspan><tspan
+                 id="tspan8574"
+                 sodipodi:role="line"
+                 x="55.043377"
+                 y="91.665031"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">can view before expanding this to the main window. I will </tspan><tspan
+                 id="tspan8576"
+                 sodipodi:role="line"
+                 x="55.043377"
+                 y="105.72753"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">continue to write until I run out </tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(-2470.4659,-743.58417)"
+           id="g8578">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 0.99987793,20.485027 382.00000207,0 0,87.000003 -382.00000207,0 z"
+             id="path8580" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8582"
+             d="m 0.99987794,107.88703 382.00000206,0"
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             id="g8584">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3"
+               y="-41.50024"
+               x="28.142029"
+               height="33.000122"
+               width="66"
+               id="rect8586"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               y="69.642036"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect8588"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path8590"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect8592"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="36.642029" />
+            <path
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path8594"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               id="path8596"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(0,-5.4526573)"
+             id="g8599">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="72.43589"
+               y="59.735531"
+               id="text8601"
+               sodipodi:linespacing="125%"><tspan
+                 id="tspan8603"
+                 sodipodi:role="line"
+                 x="72.43589"
+                 y="59.735531"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="55.012131"
+               y="43.588436"
+               id="text8605"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan8607"
+                 x="55.012131"
+                 y="43.588436"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">This is the subject of the thread</tspan></text>
+            <g
+               id="g8609"
+               transform="translate(243.25748,-88.057107)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m -186.32039,139.52444 a 1.0000999,1.0000999 0 0 0 -0.4062,1.7812 l 5,4 0.625,0.5 0.625,-0.5 5,-4 a 1.0004882,1.0004882 0 1 0 -1.25,-1.5625 l -4.375,3.5 -4.375,-3.5 a 1.0000999,1.0000999 0 0 0 -0.8438,-0.2187 z"
+                 id="path8611"
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m -187.19539,138.52444 a 1.0001,1.0001 0 0 0 -0.9062,1 l 0,9 a 1.0001,1.0001 0 0 0 1,1 l 12,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-9 a 1.0001,1.0001 0 0 0 -1,-1 l -12,0 a 1.0001,1.0001 0 0 0 -0.094,0 z m 1.0938,2 10,0 0,7 -10,0 0,-7 z"
+                 id="path8613"
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+            </g>
+            <text
+               sodipodi:linespacing="125%"
+               id="text8615"
+               y="77.602531"
+               x="55.043377"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="77.602531"
+                 x="55.043377"
+                 sodipodi:role="line"
+                 id="tspan8617">Here we have a 150 characters word limit preview that users </tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="91.665031"
+                 x="55.043377"
+                 sodipodi:role="line"
+                 id="tspan8619">can view before expanding this to the main window. I will </tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="105.72753"
+                 x="55.043377"
+                 sodipodi:role="line"
+                 id="tspan8621">continue to write until I run out </tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8623"
+           transform="translate(-2470.4659,-655.68217)">
+          <path
+             id="path8625"
+             d="m 0.99987793,20.485027 382.00000207,0 0,87.000003 -382.00000207,0 z"
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 0.99987794,107.88703 382.00000206,0"
+             id="path8627"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8629">
+            <rect
+               transform="matrix(0,1,-1,0,0,0)"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect8631"
+               width="66"
+               height="33.000122"
+               x="28.142029"
+               y="-41.50024"
+               rx="3"
+               ry="3"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect8633"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="69.642036" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path8635"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               y="36.642029"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect8637"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path8639"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path8641"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          </g>
+          <g
+             id="g8643"
+             transform="translate(0,-5.4526573)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text8645"
+               y="59.735531"
+               x="72.43589"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+                 y="59.735531"
+                 x="72.43589"
+                 sodipodi:role="line"
+                 id="tspan8647">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text8649"
+               y="43.588436"
+               x="55.012131"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+                 y="43.588436"
+                 x="55.012131"
+                 id="tspan8651"
+                 sodipodi:role="line">This is the subject of the thread</tspan></text>
+            <g
+               transform="translate(243.25748,-88.057107)"
+               id="g8653">
+              <path
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1.99999976;marker:none;enable-background:accumulate"
+                 id="path8655"
+                 d="m -186.32039,139.52444 a 1.0000999,1.0000999 0 0 0 -0.4062,1.7812 l 5,4 0.625,0.5 0.625,-0.5 5,-4 a 1.0004882,1.0004882 0 1 0 -1.25,-1.5625 l -4.375,3.5 -4.375,-3.5 a 1.0000999,1.0000999 0 0 0 -0.8438,-0.2187 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+                 id="path8657"
+                 d="m -187.19539,138.52444 a 1.0001,1.0001 0 0 0 -0.9062,1 l 0,9 a 1.0001,1.0001 0 0 0 1,1 l 12,0 a 1.0001,1.0001 0 0 0 1,-1 l 0,-9 a 1.0001,1.0001 0 0 0 -1,-1 l -12,0 a 1.0001,1.0001 0 0 0 -0.094,0 z m 1.0938,2 10,0 0,7 -10,0 0,-7 z"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="55.043377"
+               y="77.602531"
+               id="text8659"
+               sodipodi:linespacing="125%"><tspan
+                 id="tspan8661"
+                 sodipodi:role="line"
+                 x="55.043377"
+                 y="77.602531"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">Here we have a 150 characters word limit preview that users </tspan><tspan
+                 id="tspan8663"
+                 sodipodi:role="line"
+                 x="55.043377"
+                 y="91.665031"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">can view before expanding this to the main window. I will </tspan><tspan
+                 id="tspan8665"
+                 sodipodi:role="line"
+                 x="55.043377"
+                 y="105.72753"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">continue to write until I run out </tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8743"
+           transform="translate(-2470.4659,-919.38818)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#4a90d9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 0.99987793,372.09304 382.00000207,0 0,87 -382.00000207,0 z"
+             id="path8669" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8671"
+             d="m 0.99987794,459.49504 382.00000206,0"
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             transform="translate(0,351.60801)"
+             id="g8673">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3"
+               y="-41.50024"
+               x="28.142029"
+               height="33.000122"
+               width="66"
+               id="rect8675"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               y="69.642036"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect8677"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path8679"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect8681"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="36.642029" />
+            <path
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path8683"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               id="path8685"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8689"
+             y="405.89087"
+             x="54.705879"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1"
+               y="405.89087"
+               x="54.705879"
+               sodipodi:role="line"
+               id="tspan8691">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8693"
+             y="389.74377"
+             x="55.012131"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1"
+               y="389.74377"
+               x="55.012131"
+               id="tspan8695"
+               sodipodi:role="line">This is the subject of the thread</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.043377"
+             y="423.75787"
+             id="text8703"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan8705"
+               sodipodi:role="line"
+               x="55.043377"
+               y="423.75787"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1">Here we have a 150 characters word limit preview that users </tspan><tspan
+               id="tspan8707"
+               sodipodi:role="line"
+               x="55.043377"
+               y="437.82037"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1">can view before expanding this to the main window. I will </tspan><tspan
+               id="tspan8709"
+               sodipodi:role="line"
+               x="55.043377"
+               y="451.88287"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1">continue to write until I run out </tspan></text>
+        </g>
+        <g
+           id="g9295"
+           transform="translate(-2470.4659,-919.38818)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 0.99987793,459.99504 382.00000207,0 0,87 -382.00000207,0 z"
+             id="path8764" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8766"
+             d="m 0.99987794,547.39704 382.00000206,0"
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             id="g9269">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3"
+               y="-41.50024"
+               x="467.65204"
+               height="33.000122"
+               width="66"
+               id="rect8770"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               y="509.15204"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect8772"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               d="m 30.49987,513.63532 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path8774"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect8776"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="476.15204" />
+            <path
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               d="m 41.500228,470.65204 0,30 -3,0 -27.000097,0 -3.0000002,0 0,-30 c 0,-1.662 1.338,-3 3.0000002,-3 l 27.000097,0 c 1.662,0 3,1.338 3,3 z"
+               id="path12851-7-5-3-7-7"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="sccccssss" />
+            <path
+               d="m 30.49987,487.66776 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path8778"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 8.0001183,500.68454 33.9999997,0"
+               id="path8780"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8784"
+             y="493.79288"
+             x="54.705879"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="493.79288"
+               x="54.705879"
+               sodipodi:role="line"
+               id="tspan8786">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8788"
+             y="477.64578"
+             x="55.012131"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+               y="477.64578"
+               x="55.012131"
+               id="tspan8790"
+               sodipodi:role="line">This is the subject of the thread</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.043377"
+             y="511.65988"
+             id="text8798"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan8800"
+               sodipodi:role="line"
+               x="55.043377"
+               y="511.65988"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">Here we have a 150 characters word limit preview that users </tspan><tspan
+               id="tspan8802"
+               sodipodi:role="line"
+               x="55.043377"
+               y="525.72241"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">can view before expanding this to the main window. I will </tspan><tspan
+               id="tspan8804"
+               sodipodi:role="line"
+               x="55.043377"
+               y="539.78491"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">continue to write until I run out </tspan></text>
+        </g>
+        <rect
+           rx="1.999995"
+           ry="1.999995"
+           style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1;stroke:#d1d1d1;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4632-2"
+           width="4"
+           height="435.19452"
+           x="-2097.4651"
+           y="-891.9032" />
+        <g
+           id="g9332"
+           transform="translate(-2470.4659,-919.38818)">
+          <path
+             id="path8859"
+             d="m 0.99987793,547.89704 382.00000207,0 0,87 -382.00000207,0 z"
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 0.99987794,635.29904 382.00000206,0"
+             id="path8861"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g8863"
+             transform="translate(0,527.41201)">
+            <rect
+               transform="matrix(0,1,-1,0,0,0)"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect8865"
+               width="66"
+               height="33.000122"
+               x="28.142029"
+               y="-41.50024"
+               rx="3"
+               ry="3"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect8867"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="69.642036" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path8869"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               y="36.642029"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect8871"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path8873"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path8875"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="54.705879"
+             y="581.69489"
+             id="text8877"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan8879"
+               sodipodi:role="line"
+               x="54.705879"
+               y="581.69489"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.012131"
+             y="565.54779"
+             id="text8881"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan8883"
+               x="55.012131"
+               y="565.54779"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">This is the subject of the thread</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text8886"
+             y="599.56189"
+             x="55.043377"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="599.56189"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan8888">Here we have a 150 characters word limit preview that users </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="613.62439"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan8890">can view before expanding this to the main window. I will </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="627.68689"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan8892">continue to write until I run out </tspan></text>
+        </g>
+        <g
+           id="g9351"
+           transform="translate(-2470.4659,-831.48618)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 0.99987793,547.89704 382.00000207,0 0,87 -382.00000207,0 z"
+             id="path9353" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9355"
+             d="m 0.99987794,635.29904 382.00000206,0"
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             transform="translate(0,527.41201)"
+             id="g9357">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3"
+               y="-41.50024"
+               x="28.142029"
+               height="33.000122"
+               width="66"
+               id="rect9359"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               y="69.642036"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect9361"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path9363"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect9365"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="36.642029" />
+            <path
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path9367"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               id="path9369"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9371"
+             y="581.69489"
+             x="54.705879"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="581.69489"
+               x="54.705879"
+               sodipodi:role="line"
+               id="tspan9373">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9375"
+             y="565.54779"
+             x="55.012131"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+               y="565.54779"
+               x="55.012131"
+               id="tspan9377"
+               sodipodi:role="line">This is the subject of the thread</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.043377"
+             y="599.56189"
+             id="text9379"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan9381"
+               sodipodi:role="line"
+               x="55.043377"
+               y="599.56189"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">Here we have a 150 characters word limit preview that users </tspan><tspan
+               id="tspan9383"
+               sodipodi:role="line"
+               x="55.043377"
+               y="613.62439"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">can view before expanding this to the main window. I will </tspan><tspan
+               id="tspan9385"
+               sodipodi:role="line"
+               x="55.043377"
+               y="627.68689"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">continue to write until I run out </tspan></text>
+        </g>
+        <g
+           transform="translate(-2470.4659,-743.58418)"
+           id="g9387">
+          <path
+             id="path9389"
+             d="m 0.99987793,547.89704 382.00000207,0 0,87 -382.00000207,0 z"
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 0.99987794,635.29904 382.00000206,0"
+             id="path9391"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g9393"
+             transform="translate(0,527.41201)">
+            <rect
+               transform="matrix(0,1,-1,0,0,0)"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect9395"
+               width="66"
+               height="33.000122"
+               x="28.142029"
+               y="-41.50024"
+               rx="3"
+               ry="3"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect9397"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="69.642036" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path9399"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               y="36.642029"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect9401"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path9403"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path9405"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="54.705879"
+             y="581.69489"
+             id="text9407"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan9409"
+               sodipodi:role="line"
+               x="54.705879"
+               y="581.69489"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.012131"
+             y="565.54779"
+             id="text9411"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan9413"
+               x="55.012131"
+               y="565.54779"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">This is the subject of the thread</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9415"
+             y="599.56189"
+             x="55.043377"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="599.56189"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan9417">Here we have a 150 characters word limit preview that users </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="613.62439"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan9419">can view before expanding this to the main window. I will </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="627.68689"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan9421">continue to write until I run out </tspan></text>
+        </g>
+        <g
+           id="g9423"
+           transform="translate(-2470.4659,-655.68218)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 0.99987793,547.89704 382.00000207,0 0,87 -382.00000207,0 z"
+             id="path9425" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9427"
+             d="m 0.99987794,635.29904 382.00000206,0"
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             transform="translate(0,527.41201)"
+             id="g9429">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3"
+               y="-41.50024"
+               x="28.142029"
+               height="33.000122"
+               width="66"
+               id="rect9431"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               y="69.642036"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect9433"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path9435"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect9437"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="36.642029" />
+            <path
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path9439"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               id="path9441"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9443"
+             y="581.69489"
+             x="54.705879"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="581.69489"
+               x="54.705879"
+               sodipodi:role="line"
+               id="tspan9445">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9447"
+             y="565.54779"
+             x="55.012131"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+               y="565.54779"
+               x="55.012131"
+               id="tspan9449"
+               sodipodi:role="line">This is the subject of the thread</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.043377"
+             y="599.56189"
+             id="text9451"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan9453"
+               sodipodi:role="line"
+               x="55.043377"
+               y="599.56189"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">Here we have a 150 characters word limit preview that users </tspan><tspan
+               id="tspan9455"
+               sodipodi:role="line"
+               x="55.043377"
+               y="613.62439"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">can view before expanding this to the main window. I will </tspan><tspan
+               id="tspan9457"
+               sodipodi:role="line"
+               x="55.043377"
+               y="627.68689"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">continue to write until I run out </tspan></text>
+        </g>
+        <g
+           transform="translate(-2470.4659,-567.78018)"
+           id="g9459">
+          <path
+             id="path9461"
+             d="m 0.99987793,547.89704 382.00000207,0 0,87 -382.00000207,0 z"
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 0.99987794,635.29904 382.00000206,0"
+             id="path9463"
+             inkscape:connector-curvature="0" />
+          <g
+             id="g9465"
+             transform="translate(0,527.41201)">
+            <rect
+               transform="matrix(0,1,-1,0,0,0)"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect9467"
+               width="66"
+               height="33.000122"
+               x="28.142029"
+               y="-41.50024"
+               rx="3"
+               ry="3"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect9469"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="69.642036" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path9471"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <rect
+               y="36.642029"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect9473"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               sodipodi:nodetypes="ccsccccccccccc"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               id="path9475"
+               inkscape:connector-curvature="0"
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path9477"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="54.705879"
+             y="581.69489"
+             id="text9479"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan9481"
+               sodipodi:role="line"
+               x="54.705879"
+               y="581.69489"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.012131"
+             y="565.54779"
+             id="text9483"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan9485"
+               x="55.012131"
+               y="565.54779"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">This is the subject of the thread</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9487"
+             y="599.56189"
+             x="55.043377"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="599.56189"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan9489">Here we have a 150 characters word limit preview that users </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="613.62439"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan9491">can view before expanding this to the main window. I will </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="627.68689"
+               x="55.043377"
+               sodipodi:role="line"
+               id="tspan9493">continue to write until I run out </tspan></text>
+        </g>
+        <g
+           id="g9495"
+           transform="translate(-2470.4659,-479.87818)"
+           clip-path="url(#clipPath11659)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             d="m 0.99987793,547.89704 382.00000207,0 0,87 -382.00000207,0 z"
+             id="path9497" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9499"
+             d="m 0.99987794,635.29904 382.00000206,0"
+             style="fill:none;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             transform="translate(0,527.41201)"
+             id="g9501">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3"
+               y="-41.50024"
+               x="28.142029"
+               height="33.000122"
+               width="66"
+               id="rect9503"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               y="69.642036"
+               x="-32.999996"
+               height="16"
+               width="16"
+               id="rect9505"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               transform="scale(-1,1)" />
+            <path
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+               d="m 30.49987,74.12531 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.308 -5.1875,-5.308 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path9507"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <rect
+               transform="scale(-1,1)"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+               id="rect9509"
+               width="16"
+               height="16"
+               x="-32.999996"
+               y="36.642029" />
+            <path
+               d="m 30.49987,48.15775 0,-1.0051 c 10e-5,-0.01 5e-4,-0.021 0,-0.031 -0.011,-0.2562 -0.1286,-0.5124 -0.3125,-0.6909 l -5.2188,-5.3081 -5.1875,5.3081 c -0.1881,0.1891 -0.2812,0.4558 -0.2812,0.7224 l 0,1.0051 1,0 c 0.2653,0 0.5306,-0.094 0.7187,-0.2827 l 3.75,-3.8318 3.7813,3.8318 c 0.1946,0.2118 0.4692,0.3047 0.75,0.2827 l 1,0 z"
+               inkscape:connector-curvature="0"
+               id="path9511"
+               style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+               sodipodi:nodetypes="ccsccccccccccc" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 8.0001183,61.174525 33.9999997,0"
+               id="path9513"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9515"
+             y="581.69489"
+             x="54.705879"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
+               y="581.69489"
+               x="54.705879"
+               sodipodi:role="line"
+               id="tspan9517">301 points ● 16c ● linux ● 6 hours ● samdriod-apps</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text9519"
+             y="565.54779"
+             x="55.012131"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
+               y="565.54779"
+               x="55.012131"
+               id="tspan9521"
+               sodipodi:role="line">This is the subject of the thread</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="55.043377"
+             y="599.56189"
+             id="text9523"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan9525"
+               sodipodi:role="line"
+               x="55.043377"
+               y="599.56189"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">Here we have a 150 characters word limit preview that users </tspan><tspan
+               id="tspan9527"
+               sodipodi:role="line"
+               x="55.043377"
+               y="613.62439"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">can view before expanding this to the main window. I will </tspan><tspan
+               id="tspan9529"
+               sodipodi:role="line"
+               x="55.043377"
+               y="627.68689"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1">continue to write until I run out </tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6451">
+        <path
+           style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#919191;stroke-width:1.01713312;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 265.8902,-201.63973 1903.9338,0 c 4.2823,0 7.7298,4.22687 7.7298,9.47729 l 0,37.50156 -1919.4021,0.004 0.01,-37.50526 c 0,-5.25042 3.7024,-8.02165 7.7297,-9.47729 z"
+           id="path11422"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cscccssc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path11426"
+           d="m 2130.5625,-189.65435 0,23.0121"
+           style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:0.99999982px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="ccccccccscccccccccsccccccc"
+           style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+           id="path11430"
+           d="m 2150.0639,-182.14824 1,0 c 0.01,-1.2e-4 0.021,-4.6e-4 0.031,0 0.2549,0.0112 0.5098,0.12858 0.6875,0.3125 l 2.2812,2.28125 2.3125,-2.28125 c 0.2656,-0.2305 0.4467,-0.3055 0.6875,-0.3125 l 1,0 0,1 c 0,0.28647 -0.034,0.55065 -0.25,0.75 l -2.2812,2.28125 2.25,2.25 c 0.1882,0.18817 0.2812,0.45345 0.2812,0.71875 l 0,1 -1,0 c -0.2653,-1e-5 -0.5306,-0.0931 -0.7187,-0.28125 l -2.2813,-2.28125 -2.2812,2.28125 c -0.1879,0.18819 -0.4532,0.28125 -0.7185,0.28125 l -1,0 0,-1 c 0,-0.26529 0.093,-0.53058 0.2813,-0.71875 l 2.2812,-2.25 -2.2812,-2.28125 c -0.2108,-0.19463 -0.3032,-0.46925 -0.2813,-0.75 z"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g17162"
+           transform="translate(257.6431,-174.4265)">
+          <g
+             transform="translate(0.15199289,0)"
+             id="g17121">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="3.0000002"
+               y="-20.221863"
+               x="286.50089"
+               height="33.000122"
+               width="88.848"
+               id="rect10489"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+               x="330.87097"
+               y="1.2341909"
+               id="text10491"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan10493"
+                 x="330.87097"
+                 y="1.2341909"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#ffffff;fill-opacity:1">Subscribe</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g8748"
+           transform="translate(257.6431,-174.4265)">
+          <rect
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             ry="3"
+             rx="3"
+             y="-18.221809"
+             x="760.70959"
+             height="29"
+             width="399"
+             id="rect21620-5-6"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4a90d9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+          <g
+             id="g8744">
+            <ellipse
+               cy="-5.2318187"
+               cx="774.71545"
+               id="circle21624-1-0"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#888a85;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+               rx="4.5051188"
+               ry="4.5" />
+            <path
+               sodipodi:nodetypes="cc"
+               id="path21626-9-9"
+               d="m 778.2197,-1.73181 4.004,4"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#888a85;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             sodipodi:nodetypes="ccsccccccccccc"
+             style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+             id="path35264-9-9"
+             inkscape:connector-curvature="0"
+             d="m 1152.2089,-7.2385309 0,1.0051 c 10e-5,0.01 5e-4,0.021 0,0.032 -0.011,0.2562 -0.1286,0.5124 -0.3125,0.691 l -5.2188,5.30800003 -5.1875,-5.30800003 c -0.1881,-0.1893 -0.2812,-0.4559 -0.2812,-0.7225 l 0,-1.0051 1,0 c 0.2653,0 0.5306,0.094 0.7187,0.2827 l 3.75,3.8318 3.7813,-3.8318 c 0.1946,-0.2118 0.4693,-0.3047 0.75,-0.2827 l 1,0 z"
+             inkscape:export-filename="/home/simon/Créations/GNOME/Templates/Mail/Export/Mail home.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+             x="789.95386"
+             y="0.99123329"
+             id="text10626"
+             sodipodi:linespacing="125%"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"><tspan
+               sodipodi:role="line"
+               id="tspan10628"
+               x="789.95386"
+               y="0.99123329">/r/all</tspan></text>
+        </g>
+        <g
+           id="g12127"
+           transform="translate(571.7961,-242.01033)">
+          <rect
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             id="rect18597-5-6-7"
+             width="33"
+             height="33"
+             x="-110.50015"
+             y="47.362026"
+             rx="2.9999986"
+             ry="3"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <g
+             id="g12120">
+            <g
+               id="g11513-6-0"
+               transform="translate(-1083.8038,103.31397)">
+              <path
+                 id="path22912-6-2-9"
+                 d="m 996.7052,-45.451639 c -0.042,0.008 -0.084,0.0181 -0.125,0.0312 -0.4472,0.10014 -0.7923,0.5419 -0.7813,1 l 0,1.6875 c 0,1.31255 0,1.31255 -1.5625,1.3125 l -1.4375,0 c -0.5236,5e-5 -0.9999,0.47642 -1,1 -0.01,0.0726 -0.01,0.14613 0,0.21875 l 0,0.78125 6,0 0,-1 0,-4 c 0.01,-0.0623 0.01,-0.12518 0,-0.1875 l 0,-0.8125 -0.8125,0 c -0.092,-0.0236 -0.1866,-0.0342 -0.2812,-0.0312 z"
+                 style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cccccccccccccccc" />
+              <path
+                 id="path22914-2-1-1"
+                 d="m 981.8079,-39.452139 0,1 0,4 c -0.01,0.0623 -0.01,0.12518 0,0.1875 l 0,0.8125 0.8125,0 c 0.092,0.0236 0.1867,0.0342 0.2812,0.0312 0.042,-0.008 0.084,-0.0181 0.125,-0.0312 0.4472,-0.10014 0.7923,-0.5419 0.7813,-1 l 0,-1.6875 c 0,-1.3125 0,-1.3125 1.5625,-1.3125 l 1.4375,0 c 0.5236,-5e-5 1,-0.47642 1,-1 0.01,-0.0726 0.01,-0.14613 0,-0.21875 l 0,-0.78125 z"
+                 style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cccccccccccccccc" />
+              <path
+                 id="path22916-8-9-3"
+                 d="m 989.8034,-46.452139 c -3.1532,0 -5.8195,2.12571 -6.6875,5 l 2.0938,0 c 0.7734,-1.76501 2.5381,-3 4.5937,-3 2.0556,0 3.8204,1.23499 4.5938,3 l 2.0937,0 c -0.868,-2.87429 -3.5343,-5 -6.6875,-5 z m -6.6875,9 c 0.868,2.87429 3.5343,5 6.6875,5 3.1532,0 5.8195,-2.12571 6.6875,-5 l -2.0937,0 c -0.7734,1.76501 -2.5382,3 -4.5938,3 -2.0556,0 -3.8203,-1.23499 -4.5937,-3 l -2.0938,0 z"
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2.33333325;marker:none;enable-background:accumulate"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <rect
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+               id="rect18639-4-6-1"
+               width="16"
+               height="16"
+               x="-102.0004"
+               y="55.861832"
+               inkscape:label="a" />
+          </g>
+        </g>
+        <g
+           id="g12230"
+           transform="translate(275.8443,-120.35268)">
+          <rect
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             id="rect18597-5-6-7-9"
+             width="33"
+             height="33"
+             x="227.45172"
+             y="-74.295624"
+             rx="2.9999986"
+             ry="3"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <g
+             id="g12222">
+            <g
+               id="g35040-0-7"
+               transform="translate(-133.71663,340.15718)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 374.66991,-395.953 6.9982,-7 c 1,0 2,1 2,2 l -7,7 -2,0 z"
+                 id="path2273-6-2-9-9-4-6-8"
+                 sodipodi:nodetypes="cccccc"
+                 style="fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 382.66811,-403.953 c 1,0 2,1 2,2 l 1,-1 c 0,-1 -0.7519,-2 -2,-2 z"
+                 id="path4113-1-6-3-04-6-0-0-3"
+                 sodipodi:nodetypes="ccccc"
+                 style="display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 370.76181,-405.953 c -0.5687,0 -1.0937,0.5028 -1.0937,1.0625 l 0,12.8437 0,0.25 0,0.7813 c 0,0.5596 0.525,1.0624 1.0937,1.0625 l 4.3438,0 1.125,0 5.3437,0 c 0.5576,-1e-4 1.074,-0.4847 1.0938,-1.0313 4e-4,-0.011 0,-0.02 0,-0.031 l 0,-6.9375 -2,2 0,4 -9,0 0,-12 5,0 2,2 1.5312,-1.5313 -2.1875,-2.125 c -0.2004,-0.2083 -0.4897,-0.3416 -0.7812,-0.3437 z"
+                 id="path6682-6-7-7-7-3-7"
+                 sodipodi:nodetypes="ccccccccccsccccccccccc"
+                 style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 382.53081,-404.205 c 1,0 2,1 2,2 l 1,-1 c 0,-1 -0.7519,-2 -2,-2 z"
+                 id="path4113-1-6-3-04-3-5-2-5"
+                 sodipodi:nodetypes="ccccc"
+                 style="display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+            </g>
+            <rect
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+               id="rect18639-4-6-1-7"
+               width="16"
+               height="16"
+               x="235.95148"
+               y="-65.795822"
+               inkscape:label="a" />
+          </g>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path11426-5"
+           d="m 641.144,-201.13518 0,45.97375"
+           style="display:inline;fill:none;stroke:#919191;stroke-width:0.99999988px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <g
+           id="g16935"
+           transform="translate(257.6431,-174.4265)">
+          <rect
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             id="rect5658-6-3"
+             width="106.57716"
+             height="33.000122"
+             x="7.5008736"
+             y="-20.221863"
+             rx="3"
+             ry="3"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text5660-6-2"
+             y="1.0521983"
+             x="53.163784"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#2e3436;fill-opacity:1"
+               y="1.0521983"
+               x="53.163784"
+               id="tspan5662-4-2"
+               sodipodi:role="line">Username</tspan></text>
+          <path
+             style="fill:#2e3436;fill-opacity:1;stroke:none"
+             d="m 100.57788,-4.8075881 -5,4.99999997 -5.000002,-4.99999997 z"
+             id="path15786-2-7-1-4"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <g
+           id="g11965"
+           transform="translate(2443.2174,696.35567)">
+          <g
+             id="g20699-0"
+             transform="translate(-2463.3002,-319.43559)">
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3"
+               rx="2.9999986"
+               y="-571.5686"
+               x="1863.7037"
+               height="33"
+               width="33"
+               id="rect20701-8"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+            <g
+               transform="translate(1974.2039,-618.93064)"
+               id="g20703-1">
+              <g
+                 transform="translate(-1083.8038,103.31397)"
+                 id="g20705-2">
+                <path
+                   sodipodi:nodetypes="cccccccccccccccc"
+                   inkscape:connector-curvature="0"
+                   style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+                   d="m 996.7052,-45.451639 c -0.042,0.008 -0.084,0.0181 -0.125,0.0312 -0.4472,0.10014 -0.7923,0.5419 -0.7813,1 l 0,1.6875 c 0,1.31255 0,1.31255 -1.5625,1.3125 l -1.4375,0 c -0.5236,5e-5 -0.9999,0.47642 -1,1 -0.01,0.0726 -0.01,0.14613 0,0.21875 l 0,0.78125 6,0 0,-1 0,-4 c 0.01,-0.0623 0.01,-0.12518 0,-0.1875 l 0,-0.8125 -0.8125,0 c -0.092,-0.0236 -0.1866,-0.0342 -0.2812,-0.0312 z"
+                   id="path20707-2" />
+                <path
+                   sodipodi:nodetypes="cccccccccccccccc"
+                   inkscape:connector-curvature="0"
+                   style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+                   d="m 981.8079,-39.452139 0,1 0,4 c -0.01,0.0623 -0.01,0.12518 0,0.1875 l 0,0.8125 0.8125,0 c 0.092,0.0236 0.1867,0.0342 0.2812,0.0312 0.042,-0.008 0.084,-0.0181 0.125,-0.0312 0.4472,-0.10014 0.7923,-0.5419 0.7813,-1 l 0,-1.6875 c 0,-1.3125 0,-1.3125 1.5625,-1.3125 l 1.4375,0 c 0.5236,-5e-5 1,-0.47642 1,-1 0.01,-0.0726 0.01,-0.14613 0,-0.21875 l 0,-0.78125 z"
+                   id="path20709-6" />
+                <path
+                   inkscape:connector-curvature="0"
+                   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2.33333325;marker:none;enable-background:accumulate"
+                   d="m 989.8034,-46.452139 c -3.1532,0 -5.8195,2.12571 -6.6875,5 l 2.0938,0 c 0.7734,-1.76501 2.5381,-3 4.5937,-3 2.0556,0 3.8204,1.23499 4.5938,3 l 2.0937,0 c -0.868,-2.87429 -3.5343,-5 -6.6875,-5 z m -6.6875,9 c 0.868,2.87429 3.5343,5 6.6875,5 3.1532,0 5.8195,-2.12571 6.6875,-5 l -2.0937,0 c -0.7734,1.76501 -2.5382,3 -4.5938,3 -2.0556,0 -3.8203,-1.23499 -4.5937,-3 l -2.0938,0 z"
+                   id="path20711-9" />
+              </g>
+              <rect
+                 inkscape:label="a"
+                 y="55.861832"
+                 x="-102.0004"
+                 height="16"
+                 width="16"
+                 id="rect20713-1"
+                 style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
+            </g>
+            <g
+               transform="translate(289.78988,-551.34684)"
+               id="g20715-0">
+              <rect
+                 inkscape:export-ydpi="90"
+                 inkscape:export-xdpi="90"
+                 inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+                 ry="3"
+                 rx="2.9999986"
+                 y="-20.221807"
+                 x="1532.9138"
+                 height="33"
+                 width="33"
+                 id="rect20717-4"
+                 style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+              <g
+                 transform="translate(960.42892,-207.69075)"
+                 inkscape:label="places"
+                 id="g20719-2"
+                 style="fill:#2e3436;fill-opacity:1">
+                <circle
+                   r="1.96875"
+                   cy="178.03125"
+                   cx="289.03125"
+                   transform="matrix(1.5079365,0,0,1.5079365,148.15963,-64.49107)"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:new"
+                   id="circle20721-7" />
+                <circle
+                   r="1.96875"
+                   cy="178.03125"
+                   cx="289.03125"
+                   transform="matrix(1.5079365,0,0,1.5079365,158.12818,-59.49107)"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:new"
+                   id="circle20723-4" />
+                <circle
+                   r="1.96875"
+                   cy="178.03125"
+                   cx="289.03125"
+                   transform="matrix(1.5079365,0,0,1.5079365,158.12818,-69.49107)"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:new"
+                   id="circle20725-0" />
+                <path
+                   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+                   id="path20727-3"
+                   d="m 593.625,198.15625 -10.0625,4.875 -1.8125,0.90625 1.8125,0.90625 10.03125,5.0625 0.90625,-1.8125 -8.21875,-4.15625 8.21875,-4 -0.875,-1.78125 z"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+          </g>
+          <g
+             transform="translate(-3243.2456,439.73204)"
+             id="g19973-2">
+            <rect
+               transform="scale(-1,1)"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               id="rect12348-2-8"
+               width="238.94153"
+               height="33.00087"
+               x="-2923.5908"
+               y="-1330.7365"
+               rx="3.0000789"
+               ry="3.0000792"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               inkscape:export-xdpi="90"
+               inkscape:export-ydpi="90" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00039577px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="2736.5928"
+               y="-1309.4059"
+               id="text12350-2-0"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan12352-7-3"
+                 x="2736.5928"
+                 y="-1309.4059"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'11.5';-inkscape-font-specification:'11.5, ';stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Comments</tspan></text>
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               ry="3.0000792"
+               rx="3.0000789"
+               y="-1330.7365"
+               x="-2923.5908"
+               height="33.00087"
+               width="117.95998"
+               id="rect14318-0-70"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+               transform="scale(-1,1)" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00039577px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="2870.5369"
+               y="-1309.4059"
+               id="text12354-3-0"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan12356-4-34"
+                 x="2870.5369"
+                 y="-1309.4059"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.37537956px;font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Web</tspan></text>
+            <rect
+               inkscape:export-ydpi="90"
+               inkscape:export-xdpi="90"
+               inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+               y="-1330.736"
+               x="2787.6201"
+               height="33"
+               width="33"
+               id="rect12400-6-9"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ebebeb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+            <g
+               id="g12402-3-2"
+               transform="translate(767.88147,-759.1675)">
+              <g
+                 id="g12404-6-7"
+                 transform="matrix(0,1,-1,0,2067.2356,-1367.0685)"
+                 style="opacity:1;fill:#2e3436">
+                <path
+                   style="fill:#2e3436;fill-opacity:1;stroke:none"
+                   d="m 811.78126,23.99683 -3.03125,3 2.25,0 0,2 2,0 0,-2 2.25,0 -3.03125,-3 z"
+                   id="path12406-3-4"
+                   inkscape:connector-curvature="0"
+                   sodipodi:nodetypes="ccccccccc" />
+                <rect
+                   ry="0"
+                   rx="0"
+                   y="29.996834"
+                   x="805"
+                   height="2"
+                   width="14"
+                   id="rect12408-3-2"
+                   style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+                <path
+                   sodipodi:nodetypes="ccccccccc"
+                   inkscape:connector-curvature="0"
+                   id="path12410-4-5"
+                   d="m 811.78126,37.99683 -3.03125,-3 2.25,0 0,-2 2,0 0,2 2.25,0 -3.03125,3 z"
+                   style="fill:#2e3436;fill-opacity:1;stroke:none" />
+              </g>
+              <rect
+                 transform="matrix(0,-1,-1,0,0,0)"
+                 style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none"
+                 id="rect12412-4-2"
+                 width="16"
+                 height="16"
+                 x="547.06854"
+                 y="-2044.2388" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g34751"
+           transform="translate(-155.1405,-669.03895)">
+          <rect
+             transform="scale(-1,1)"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+             id="rect12849-7-6-1"
+             width="66"
+             height="33.000122"
+             x="-869.28448"
+             y="474.3905"
+             rx="3"
+             ry="3"
+             inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+          <path
+             sodipodi:nodetypes="sccccssss"
+             inkscape:connector-curvature="0"
+             id="path12851-7-5-3-1"
+             d="m 866.28508,474.39075 -30,0 0,3 0,27.0001 0,3 30,0 c 1.662,0 3,-1.338 3,-3 l 0,-27.0001 c 0,-1.662 -1.338,-3 -3,-3 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+          <g
+             transform="translate(384.6803,555.75724)"
+             id="g20897">
+            <rect
+               inkscape:label="a"
+               y="-72.866501"
+               x="460.10416"
+               height="16"
+               width="16"
+               id="rect18853-0-0-9-7"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
+            <rect
+               inkscape:label="a"
+               y="-69.866714"
+               x="463.10434"
+               height="2.0002136"
+               width="9.9996014"
+               id="rect18855-2-3-9-0"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+            <rect
+               inkscape:label="a"
+               y="-65.866714"
+               x="463.10434"
+               height="2.0002136"
+               width="9.9996014"
+               id="rect18857-1-9-7-5"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+            <rect
+               inkscape:label="a"
+               y="-61.866718"
+               x="463.10434"
+               height="2.0002136"
+               width="9.9996014"
+               id="rect18859-0-1-8-2"
+               style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+          </g>
+          <path
+             sodipodi:sides="5"
+             sodipodi:cx="526.88293"
+             inkscape:randomized="0"
+             sodipodi:arg2="1.5829876"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+             sodipodi:r1="7.0383992"
+             sodipodi:arg1="0.95492637"
+             sodipodi:type="star"
+             id="path5416-5-5-7-1-3"
+             d="m 530.9488,186.70897 c -0.77941,0.55189 -3.15759,-1.90601 -4.11253,-1.9179 -0.95532,-0.0119 -3.39494,2.38585 -4.16096,1.8149 -0.76573,-0.57072 0.83698,-3.59203 0.55319,-4.50391 -0.2839,-0.91223 -3.31818,-2.49151 -3.01189,-3.39647 0.30617,-0.90461 3.67487,-0.31399 4.45442,-0.86567 0.77986,-0.5519 1.3442,-3.92569 2.29952,-3.91404 0.95494,0.0116 1.43421,3.39798 2.19979,3.9689 0.76588,0.57114 4.14893,0.0653 4.43307,0.97746 0.28402,0.9118 -2.78848,2.41405 -3.09488,3.31858 -0.30652,0.90489 1.21999,3.96605 0.44027,4.51815 z"
+             inkscape:transform-center-y="-0.69491065"
+             inkscape:transform-center-x="-0.0094346789"
+             inkscape:flatsided="false"
+             inkscape:rounded="0.2104596"
+             transform="matrix(1.0472113,-0.00871584,0.00871584,1.0472113,266.44058,306.48681)"
+             sodipodi:r2="3.8276224"
+             sodipodi:cy="180.96373" />
+        </g>
+      </g>
+      <g
+         id="g9664"
+         transform="translate(257.14305,-108.4265)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1101.5887"
+           y="494.51556"
+           id="text15827"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan15829"
+             x="1101.5887"
+             y="494.51556"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#2e3436;fill-opacity:1">Start browsing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1103.0588"
+           y="519.68713"
+           id="text9565"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan9567"
+             x="1103.0588"
+             y="519.68713"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#323232;fill-opacity:1">Click a post to start reading news </tspan><tspan
+             sodipodi:role="line"
+             x="1103.0588"
+             y="537.65588"
+             id="tspan9569"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#323232;fill-opacity:1">from around the world.</tspan></text>
+        <g
+           id="g9659">
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path9585"
+             d="m 1007.7257,427.45591 3.9288,-50.17756 1.1094,-14.16915 67.1751,29.69848"
+             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#2e3436;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="display:inline;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 1082.3891,501.82475 c 0,42.60829 -34.5518,77.1494 -77.1669,77.1494 -42.61912,0 -77.16892,-34.5415 -77.16892,-77.1494 0,-42.60634 34.5498,-77.14392 77.16892,-77.14392 42.6151,0 77.1669,34.53758 77.1669,77.14392 l 0,0 0,0 z"
+             id="path9587"
+             inkscape:connector-curvature="0" />
+          <path
+             style="display:inline;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 1100.1993,392.11571 c 0,9.4237 -7.6418,17.06318 -17.067,17.06318 -9.4261,0 -17.0675,-7.63956 -17.0675,-17.06318 0,-9.42326 7.6414,-17.06196 17.0675,-17.06196 9.4252,0 17.067,7.6387 17.067,17.06196 l 0,0 0,0 z"
+             id="path9589"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

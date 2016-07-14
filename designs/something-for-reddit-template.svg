@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1360"
+   height="890"
+   viewBox="0 0 1359.9998 890"
+   id="svg5128"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="something-for-reddit-template.svg"
+   inkscape:export-filename="/media/files/Mock-ups/something-for-reddit/something-for-reddit-ui-with-actions.0.2.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs6009" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="814.08819"
+     inkscape:cy="575.07966"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:snap-nodes="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6357" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5133">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-162.362)">
+    <g
+       style="opacity:0.25"
+       id="g21239"
+       transform="matrix(-1,0,0,-1,3500.3588,-1621.9582)" />
+    <g
+       id="g22434"
+       transform="translate(-2981.7435,2834.3311)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="3019.7185"
+         y="-2598.6665"
+         id="text22436"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan22438"
+           x="3019.7185"
+           y="-2598.6665"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';fill:#2e3436;fill-opacity:1">Something for Reddit</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text22440"
+         y="-2555.3621"
+         x="3020.6187"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:22.5px;fill:#2e3436;fill-opacity:1"
+           y="-2555.3621"
+           x="3020.6187"
+           id="tspan22442"
+           sodipodi:role="line">Description of wireframe</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3021.7435,-2579.2869 444.409,0"
+         id="path22444"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="292.90945"
+       x="40.999908"
+       height="718"
+       width="1278"
+       id="rect22446"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#2e3436;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text22436-6"
+       y="284.52405"
+       x="1321.6876"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.375px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1"
+         y="284.52405"
+         x="1321.6876"
+         id="tspan22438-7"
+         sodipodi:role="line">Version 0.0.0</tspan></text>
+  </g>
+</svg>
