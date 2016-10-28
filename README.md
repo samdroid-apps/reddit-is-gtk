@@ -29,7 +29,7 @@ I did this ages ago, so I don't really remember.
 
 1.  Install `gnome-common`
 2.  Install the `python3-arrow`  and `python3-markdown`
-3.  Install `libglib2.0-dev` and `libgtk2.0-dev`
+3.  Install `libglib2.0-dev` and `libgtk3.0-cil-dev`
 4.  Install a SCSS compiler (eg. `rubygem-sass` on Fedora).  This is very
     important because otherwise it will fail to build.
     For Ubuntu run the following commands : 
