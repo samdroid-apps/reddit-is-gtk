@@ -29,13 +29,35 @@ I did this ages ago, so I don't really remember.
 
 1.  Install `gnome-common`
 2.  Install the `python3-arrow`  and `python3-markdown`
-3.  Install `libglib2.0-dev` and `libgtk3.0-cil-dev`
+3.  Install `libglib2.0-dev`,`libgtk-3-dev`,`libsoup2.4-dev`,`libjson-glib-dev`
 4.  Install a SCSS compiler (eg. `rubygem-sass` on Fedora).  This is very
     important because otherwise it will fail to build.
-    For Ubuntu run the following commands : 
+    For Ubuntu run the following commands :
+    `sudo apt-get install rubygems ruby-dev`
     `sudo su -c "gem install sass"`
     `sudo gem install sass`
+5.  Install the package `gobject_introspection` by using the command `sudo apt install gobject-introspection`
 
+Installing libglib2.0_50
+1.  Install the package `libffi-dev`,`libmount-dev`
+2.  Download the package from `https://launchpad.net/ubuntu/+archive/primary/+files/glib2.0_2.50.0.orig.tar.xz`
+3.  Extract it using the command `tar vvfj glib2.0*`
+4.  Follow the installation procedure given in the file INSTALL
+
+Installing gtk+3.22
+1.  Install the packages `libpango1.0-dev libatk1.0-dev
+2.  Download the package for gtk3+ `http://ftp.gnome.org/pub/gnome/sources/gtk+/3.22/gtk+-3.22.1.tar.xz`
+3.  Extract it using the command `tar xvfj gtk+-3*`
+4.  Open the directory using the linux command `cd` and run `./configure --prefix=/opt/gtk`
+5.  If you have two versions of glib installed then set environment variables as 
+	`PKG_CONFIG_PATH=/usr/local/lib/pkgconfig` and
+	`LD_LIBRARY_PATH=/usr/local/lib`
+	`export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib`
+4.  `make`
+5.  `make install`
+
+Other requirements
+1. Install `libwebkit2gtk-4.0-dev`
 Then you can just install it like any usual program.
 
 1.  Download the source code (eg. `git clone https://github.com/samdroid-apps/something-for-reddit; cd something-for-reddit`)
